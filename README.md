@@ -10,7 +10,7 @@ Located in `tp1/` - Basic Rust exercises and fundamentals.
 
 ### Asteroid Game
 
-Located in `asteroid/` - A small game implementation.
+Located in `asteroid/` - A small game I made, because I'm bored.
 
 ## Purpose
 
