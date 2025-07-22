@@ -27,7 +27,7 @@ fn main() {
             timer: Timer::from_seconds(2.0, TimerMode::Repeating),
         })
         .insert_resource(FireTimer {
-            timer: Timer::from_seconds(0.1, TimerMode::Repeating), // 10 bullets per second (0.1s interval)
+            timer: Timer::from_seconds(0.05, TimerMode::Repeating),
         })
         // Startup systems
         .add_systems(Startup, setup_camera)

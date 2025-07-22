@@ -113,5 +113,5 @@ pub fn reset_game_resources(
 
     // Reset timers with difficulty settings
     spawn_timer.timer = Timer::from_seconds(difficulty.asteroid_spawn_rate, TimerMode::Repeating);
-    fire_timer.timer = Timer::from_seconds(0.1, TimerMode::Repeating);
+    fire_timer.timer = Timer::from_seconds(0.05, TimerMode::Repeating);
 }
