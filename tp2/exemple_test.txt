@@ -1,0 +1,8 @@
+Ceci est un fichier de test
+pour démontrer le gestionnaire de fichiers Rust.
+
+Ligne 3: exemple de contenu
+Ligne 4: autre exemple
+
+Ce fichier peut être lu, modifié et supprimé
+par le programme gestionnaire de fichiers.
